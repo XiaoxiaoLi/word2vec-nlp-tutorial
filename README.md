@@ -1,1 +1,4 @@
-# word2vec-nlp-tutorial
+# Movie Sentiment Analysis
+
+## Prerequisite
+`pip install -r requirements.txt`
